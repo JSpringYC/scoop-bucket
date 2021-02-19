@@ -1,0 +1,18 @@
+{
+    "homepage": "https://www.iobit.com/en/advanceduninstaller.php",
+    "license": "Free",
+    "version": "10.3.0",
+    "url": "https://cdn.iobit.com/dl/iobituninstaller.exe",
+    "innosetup": "true",
+    "hash": "1f8616d8acdfc093163ccaae517a583be6f23d4bea551d22a1839bcc2648f495",
+    "bin": "IObitUninstaler.exe",
+    "shortcuts": [
+        [
+            "IObitUninstaler.exe",
+            "IObit"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://cdn.iobit.com/dl/iobituninstaller.exe"
+    }
+}
