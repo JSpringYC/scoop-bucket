@@ -1,0 +1,18 @@
+{
+    "homepage": "https://sunlogin.oray.com/",
+    "license": "Free",
+    "version": "11.0.0.33826",
+    "url": "https://down.oray.com/sunlogin/windows/SunloginClient_11.0.0.33826_x64.exe",
+    "innosetup": "true",
+    "hash": "fdf5ad6b65a5a8e5b89bf39b7dd04a9a24bf9a55202db9ab5b7b9cdf9e537019",
+    "bin": "SunloginClient.exe",
+    "shortcuts": [
+        [
+            "SunloginClient.exe",
+            "向日葵"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://down.oray.com/sunlogin/windows/SunloginClient_$version_x64.exe"
+    }
+}
